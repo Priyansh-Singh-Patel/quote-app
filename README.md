@@ -9,6 +9,11 @@
   <h1>📜 Quote App</h1>
   <p><strong>Quote App</strong> is a minimal app that displays random inspirational quotes fetched from an API. Users can save their favorite quotes or share them as images with author details and an app logo.</p>
 
+  <h1>📱 Run Application</h1>
+  
+  [![Run on Appetize.io](https://img.shields.io/badge/Run%20on-Appetize.io-blue)](https://appetize.io/app/b_7vlenxfiyd4bskrluqawbuxk6m)
+
+
   <h2>✨ Features</h2>
   <ul>
     <li>🎲 Fetch random quotes on app launch</li>
